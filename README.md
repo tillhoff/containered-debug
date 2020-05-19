@@ -5,6 +5,6 @@ A simple but relatively large container image for debugging purposes.
 
 `docker run -it --rm --name debug tillhoff/debug`
 
-* *--rm for removing automatically after exiting*
 * *-it for attached start*
+* *--rm for removing automatically after exiting*
 * *--name for container name*
