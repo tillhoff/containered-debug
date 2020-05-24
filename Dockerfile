@@ -15,6 +15,8 @@ RUN \
     iputils-ping \
 # for ifconfig:
     net-tools \
+# for ps,top:
+    procps \
     && \
   apt autoremove -y && \
   apt autoclean
