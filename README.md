@@ -1,7 +1,9 @@
-# docker-debug
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tillhoff/debug)
+
+# containered-debug
 A simple but relatively large container image for debugging purposes.
 
-## how to use
+## usage
 
 `docker run -it --rm --name debug tillhoff/debug`
 
