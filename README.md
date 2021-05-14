@@ -1,4 +1,4 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/thetillhoff/debug)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/tillhoff/containered-debug/Publish%20image%20to%20docker%20hub)
 
 # containered-debug
 A simple but relatively large container image for debugging purposes.
